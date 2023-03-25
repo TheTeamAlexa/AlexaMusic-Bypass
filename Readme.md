@@ -46,3 +46,17 @@ Here is the complete guide to deploy Alexa Music on Railway and Heroku with deta
 - In the picture given below i have mentioned which file you need to edit to add your own values.
 
 <a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/b9429521ef5d4679b59b4.png"/></a> |
+
+### sᴛᴇᴘ ɴᴜᴍʙᴇʀ 3
+- Open your forked repo and go to `AlexaMusic/config/config.py` edit necessary Vars which i have give below.
+- Don't Need to edit or replace values of the vars already given in `app.json` and `railway.json` edit only thses vars which i have mentioned below.
+- MUSIC_BOT_NAME =  `You Music Bot Name` Edit In `Config.py` because it's not will be available in `app.json` and `railway.json`
+- OWNER_ID = Your owner id Edit In `Config.py` otherwise I'll be your bot owner.
+- UPSTREAM_REPO = In `Config.py` put your edited repo link
+- UPSTREAM_BRANCH = in `Config.py` putt Branch name it's necessary to update the bot
+- SUPPORT_CHANNEL = In `Config.py` replace you channel link with Mine 
+- SUPPORT_GROUP = In `Config.py` replace you group link with Mine 
+- SPOTIFY_CLIENT_ID = you can use these vars if you want to listen Spotify music also edit it in `Config.py` 
+- SPOTIFY_CLIENT_SECRET = you can use these vars if you want to listen Spotify music also edit it in `Config.py`
+
+<a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/9eceaf53602dbbbc92d44.png"/></a> |
