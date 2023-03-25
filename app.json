@@ -34,7 +34,7 @@
         "required": true
       },
       "STRING_SESSION": {
-        "description": "A Pyrogram String Session. One Assistant is Compulsory.",
+        "description": "A Pyrogram Session Get It From  Here @Session_Generator_Robot.",
         "value": "",
         "required": true
       },
