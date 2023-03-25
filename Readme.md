@@ -1,4 +1,4 @@
-<h1 align="center"><b>❤️ ALEXA MUSIC BYPASS ❤️</b></h1>
+<h1 align="center"><b>❤️ ALEXA MUSIC BYPASS ❤️</b></h1>:
 <!-- Your title -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=-%3E+Subscribe+Jankari+Ki+Duniya;-%3E+Join+Alexa;-%3E+Make+Sure+To+Star+This+Project;-%3E+It+Is+Aleax+Music+Bypass;-%3E+No+Account+Suspension;-%3E+Myself+Asad+Ali+From+Pakistan;-%3E+Anesthesia+Is+My+Carrier)](https://git.io/typing-svg)
@@ -68,4 +68,7 @@ Here is the complete guide to deploy Alexa Music on Railway and Heroku with deta
 <a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/9eceaf53602dbbbc92d44.png"/></a> |
 
 ### ғɪɴᴀʟ sᴛᴇᴘ
-- Above instructions for those who want to edit repo otherwise just click on the <p><a href="#heroku">Deploy To Heroku Button</a></p> that's it
+- Above instructions for those who want to edit repo otherwise just click on the <p><a href="#heroku">Deploy To Heroku Button</a></p> and fills your vars and wait for the deployment, By the help of this you can bypass railway and heroku restrictions on your deployment there will be no more account suspension on heroku and railway.
+
+
+<h2 align="center"><b>❤️ ᴄʀᴇᴅɪᴛ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ❤️</b></h2>
