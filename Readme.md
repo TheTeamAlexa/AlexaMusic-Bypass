@@ -22,12 +22,16 @@ Whether you're deploying a small side project or a large-scale application, Bypa
 <h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴀʟᴇxᴀ ᴏɴ ʀᴀɪʟᴡᴇʏ</h4>
 
 [![ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)]()
+<br>
 
 <h1 align="center"><b>❤️ ʜᴇʀᴇ ɪs ᴛʜᴇ ғᴜʟʟ ᴅᴇᴛᴀɪʟ ❤️</b></h1>
+### NOTE ⚠️
+> You don't have need to do any steps given below if you just want to Deploy Alexa Music or if you want to make changes then try the steps given below.
 Here is the complete guide to deploy Alexa Music on Railway and Heroku with detailed images. You have to make some changes if you want to deploy this music bot. Firstly, you have to fork both the main project and Alexa bypass. If you don't want to edit the repo and want to use Alexa Original vars, simply click on the above button. If you want to add your own name, like channel name or support group, then you have to edit the Alexa repo. All the processes are given below.
+<br>
 
 ### sᴛᴇᴘ ɴᴜᴍʙᴇʀ 1
-> ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ғᴏʀᴋ ʙᴏᴛʜ ʀᴇᴘᴏ 
+> You need to fork and star both repos.
+> Then, open the forked Alexa Bypass repo and edit the Dockerfile as I have mentioned in picture replace `https://github.com/TheTeamAlexa/AlexaMusic` with your own repo link which you have forked from Alexa
 
-
-<a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/083b270749997caf55e77.png"/></a> |
+<a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/083b270749997caf55e77.png"/></a> |
