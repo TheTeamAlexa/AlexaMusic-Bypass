@@ -10,6 +10,8 @@ Alexa Music Bypass is a tool that allows you to deploy Alexa Music on cloud host
 To use Bypass, you first need to click on the buttons to deploy and set up the necessary environment variables. Once that's done, you can deploy the repository to either hosting platform and start using it right away.
 With Bypass, you can deploy Alexa Music on Heroku or Railway and take advantage of the benefits of cloud hosting. You can scale your application to handle more traffic, access powerful analytics and monitoring tools, and use add-ons to add functionality to your application.
 Whether you're deploying a small side project or a large-scale application, Bypass makes it easy to deploy your repository on the cloud hosting platform of your choice.
+> Here is the official Alexa Music repo click on the button given below
+<a href="https://github.com/TheTeamAlexa/AlexaMusic"><img src="https://img.shields.io/badge/Alexa-Music%20Bypass-blue.svg?style=for-the-badge&logo=GitHub"></a>
 
 <h3 id="heroku"> ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</h4>
 
@@ -72,3 +74,13 @@ Here is the complete guide to deploy Alexa Music on Railway and Heroku with deta
 
 
 <h2 align="center"><b>❤️ ᴄʀᴇᴅɪᴛ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ❤️</b></h2>
+Here is the list of all people for making this project even more better thanks.
+- [ᴍʏsᴇʟғ](https://t.me/Dr_Asad_Ali) - For final look
+- [Eximinati](https://github.com/Eximinati) - Adding Railway template 
+- [Abhimanyu](https://t.me/VeNom_HaiN_HuM) - No need for any introduction
+
+### ❤️ sᴜᴘᴘᴏʀᴛ ʙʏ ᴊᴏɪɴɪɴɢ ᴛʜᴇsᴇ ᴄʜᴀɴɴᴇʟs
+<a href="https://t.me/Alexa_BotUpdates"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/Shayri_Music_Lovers"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Give_Me_Heart"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Alexa_Help"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
