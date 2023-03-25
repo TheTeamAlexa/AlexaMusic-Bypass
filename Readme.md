@@ -32,17 +32,17 @@ Here is the complete guide to deploy Alexa Music on Railway and Heroku with deta
 > You don't have need to do any steps given below if you just want to Deploy Alexa Music or if you want to make changes then try the steps given below.
 
 ### sᴛᴇᴘ ɴᴜᴍʙᴇʀ 1
-> You need to fork and star both repos.
-> Then, open the forked Alexa Bypass repo and edit the Dockerfile, as I have mentioned in the picture. Replace `https://github.com/TheTeamAlexa/AlexaMusic` with your own repo link that you have forked from Alexa as mentioned in picture.
-> After that, edit the `Readme.md` file, and in the `Deploy To Heroku` section, change the GitHub username and Repo name to your own repo name that you have forked.
+- You need to fork and star both repos.
+- Then, open the forked Alexa Bypass repo and edit the Dockerfile, as I have mentioned in the picture. Replace `https://github.com/TheTeamAlexa/AlexaMusic` with your own repo link that you have forked from Alexa as mentioned in picture.
+- After that, edit the `Readme.md` file, and in the `Deploy To Heroku` section, change the GitHub username and Repo name to your own repo name that you have forked.
 
 <a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/083b270749997caf55e77.png"/></a> |
 
 ### sᴛᴇᴘ ɴᴜᴍʙᴇʀ 2
-> If you want to edit the repository, open the forked repository that you have forked from Alexa Music and change the name that I have used in the repository, such as support group, channel, owner name, etc.
-> Open `AlexaMusic` in your forked repository, then go to `AlexaMusic/strings/langs/en.yml` and locate where I have used my channel name, etc. Make sure to change only the username and not change any `{}`, `0` words, like that.
-> Furthermore, you can visit `AlexaMusic/strings/helpers.py` to replace my usernames with yours.
-> After that, go to `AlexaMusic/AlexaMusic/utils/inline/play.py` for further editing of the play button, which will show when the song is playing.
-> In the picture given below i have mentioned which filr you need to edit to add your own values.
+- If you want to edit the repository, open the forked repository that you have forked from Alexa Music and change the name that I have used in the repository, such as support group, channel, owner name, etc.
+- Open `AlexaMusic` in your forked repository, then go to `AlexaMusic/strings/langs/en.yml` and locate where I have used my channel name, etc. Make sure to change only the username and not change any `{}`, `0` words, like that.
+- Furthermore, you can visit `AlexaMusic/strings/helpers.py` to replace my usernames with yours.
+- After that, go to `AlexaMusic/AlexaMusic/utils/inline/play.py` for further editing of the play button, which will show when the song is playing.
+- In the picture given below i have mentioned which file you need to edit to add your own values.
 
 <a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/df1e7cd331b88aeda3da1.png"/></a> |
