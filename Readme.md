@@ -60,3 +60,38 @@ Here is the complete guide to deploy Alexa Music on Railway and Heroku with deta
 - SPOTIFY_CLIENT_SECRET = you can use these vars if you want to listen Spotify music also edit it in `Config.py`
 
 <a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/9eceaf53602dbbbc92d44.png"/></a> |
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      /* Style the button */
+      .glow-button {
+        background-color: #4CAF50; /* Green */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 10px;
+        box-shadow: 0 0 20px #4CAF50; /* Add a shadow */
+        transition: box-shadow 0.3s ease-in-out; /* Add a transition */
+      }
+      
+      /* Add a glow effect on hover */
+      .glow-button:hover {
+        box-shadow: 0 0 40px #4CAF50;
+      }
+    </style>
+  </head>
+  <body>
+    <a href="https://example.com">
+      <button class="glow-button">Click me</button>
+    </a>
+  </body>
+</html>
