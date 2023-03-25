@@ -52,7 +52,7 @@ Here is the complete guide to deploy Alexa Music on Railway and Heroku with deta
 - After that, go to `AlexaMusic/AlexaMusic/utils/inline/play.py` for further editing of the play button, which will show when the song is playing.
 - In the picture given below i have mentioned which file you need to edit to add your own values.
 
-<a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/b9429521ef5d4679b59b4.png"/></a> |
+<a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/f316275042f51497d1074.png"/></a> |
 
 ### sᴛᴇᴘ ɴᴜᴍʙᴇʀ 3
 - Open your forked repo and go to `AlexaMusic/config/config.py` edit necessary Vars which i have give below.
