@@ -1,10 +1,7 @@
 <h1 align="center"><b>❤️ ALEXA MUSIC BYPASS ❤️</b></h1>
-
-<h3>
-
 <!-- Your title -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=-%3E+Subscribe+My+YouTube+Channel+Jankari+Ki+Duniya;-%3E+Join+Alexa;-%3E+Make+Sure+To+Star+This+Project;-%3E+It+Is+Aleax+Music+Bypass+No+Account+Suspension;-%3E+Myself+Asad+Ali+From+Pakistan+Lovee+You+All;-%3E+Anesthesia+Is+My+Carrier)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=-%3E+Subscribe+Jankari+Ki+Duniya;-%3E+Join+Alexa;-%3E+Make+Sure+To+Star+This+Project;-%3E+It+Is+Aleax+Music+Bypass;-%3E+No+Account+Suspension;-%3E+Myself+Asad+Ali+From+Pakistan;-%3E+Anesthesia+Is+My+Carrier)](https://git.io/typing-svg)
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
