@@ -30,4 +30,4 @@ Here is the complete guide to deploy Alexa Music on Railway and Heroku with deta
 > ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ғᴏʀᴋ ʙᴏᴛʜ ʀᴇᴘᴏ 
 
 
-<a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/083b270749997caf55e77.png" width="700px" height="300px" /></a> |
+<a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/083b270749997caf55e77.png"/></a> |
