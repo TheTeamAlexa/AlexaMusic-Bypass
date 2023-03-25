@@ -75,9 +75,9 @@ Here is the complete guide to deploy Alexa Music on Railway and Heroku with deta
 
 <h2 align="center"><b>❤️ ᴄʀᴇᴅɪᴛ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ❤️</b></h2>
 Here is the list of all people for making this project even more better thanks.
-- [ᴍʏsᴇʟғ](https://t.me/Dr_Asad_Ali) - For final look
-- [Eximinati](https://github.com/Eximinati) - Adding Railway template 
-- [Abhimanyu](https://t.me/VeNom_HaiN_HuM) - No need for any introduction
+- [ᴍʏsᴇʟғ](https://t.me/Dr_Asad_Ali) | For final look to this project and making Bypass.
+- [Eximinati](https://github.com/Eximinati) | Eximinati added Railway template thanks bruh.
+- [Abhimanyu](https://t.me/VeNom_HaiN_HuM) | No need for any introduction.
 
 ### ❤️ sᴜᴘᴘᴏʀᴛ ʙʏ ᴊᴏɪɴɪɴɢ ᴛʜᴇsᴇ ᴄʜᴀɴɴᴇʟs
 <a href="https://t.me/Alexa_BotUpdates"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
