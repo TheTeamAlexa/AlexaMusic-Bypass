@@ -25,3 +25,9 @@ Whether you're deploying a small side project or a large-scale application, Bypa
 
 <h1 align="center"><b>❤️ ʜᴇʀᴇ ɪs ᴛʜᴇ ғᴜʟʟ ᴅᴇᴛᴀɪʟ ❤️</b></h1>
 Here is the complete guide to deploy Alexa Music on Railway and Heroku with detailed images. You have to make some changes if you want to deploy this music bot. Firstly, you have to fork both the main project and Alexa bypass. If you don't want to edit the repo and want to use Alexa Original vars, simply click on the above button. If you want to add your own name, like channel name or support group, then you have to edit the Alexa repo. All the processes are given below.
+
+### sᴛᴇᴘ ɴᴜᴍʙᴇʀ 1
+> ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ғᴏʀᴋ ʙᴏᴛʜ ʀᴇᴘᴏ 
+
+
+<a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/083b270749997caf55e77.png" width="700px" height="300px" /></a> |
