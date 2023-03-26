@@ -31,7 +31,8 @@ Whether you're deploying a small side project or a large-scale application, Bypa
 > sᴇᴄᴏɴᴅ, ғᴏʀᴋ ᴛʜɪs ʀᴇᴘᴏ ᴀɴᴅ ᴏᴘᴇɴ ʀᴀɪʟᴡᴀʏ, ᴄᴏɴɴᴇᴄᴛ ᴛᴏ ɢɪᴛʜᴜʙ, ᴛʜᴇɴ sᴇʟᴇᴄᴛ ʏᴏᴜʀ ꜰᴏʀᴋᴇᴅ ʀᴇᴘᴏ, ᴛʜᴇɴ ᴀᴅᴅ ᴄᴏɴꜰɪɢ ᴠᴀʀs ᴀɴᴅ ᴡᴀɪᴛ ꜰᴏʀ ᴄᴏᴍᴘʟᴇᴛᴇ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ. ᴛʜᴀᴛ's ɪᴛ!
 
 <h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴀʟᴇxᴀ ᴏɴ ʀᴀɪʟᴡᴇʏ</h4>
-It's a original template click on the button given below to directly deploy on railway and fills you vars
+It's a original template click on the button given below to directly deploy on railway and fills you vars.
+
 [![ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)]()
 
 <h4> ᴅᴇᴘʟᴏʏᴇ ᴡɪᴛʜᴏᴜᴛ ᴛᴇᴍᴘʟᴀᴛᴇ </h4>
@@ -41,8 +42,7 @@ Then click on `Deploye from GitHub repo` and connect you GitHub account now slec
 <a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/81609e3e1e91367020db7.png"/></a>
 Now, click on the variables and add new variables, filling in the necessary vars which are given below, or you can check them in the app.json file.
 <a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/2f381a99fef97ba6594c5.png"/></a>
-- Here m is necessary Vars you have to fill in variable section
-`OWNER_ID`, `MONGO_DB_URI`, `BOT_TOKEN`, `API_HASH`, `API_ID`, `LOG_GROUP_ID`, `STRING_SESSION`.
+Here m is necessary Vars you have to fill in variable section. `OWNER_ID`, `MONGO_DB_URI`, `BOT_TOKEN`, `API_HASH`, `API_ID`, `LOG_GROUP_ID`, `STRING_SESSION`.
 <br>
 
 <h1 align="center"><b>❤️ ʜᴇʀᴇ ɪs ᴛʜᴇ ғᴜʟʟ ᴅᴇᴛᴀɪʟ ❤️</b></h1>
