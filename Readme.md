@@ -10,6 +10,8 @@ Alexa Music Bypass is a tool that allows you to deploy Alexa Music on cloud host
 To use Bypass, you first need to click on the buttons to deploy and set up the necessary environment variables. Once that's done, you can deploy the repository to either hosting platform and start using it right away.
 With Bypass, you can deploy Alexa Music on Heroku or Railway and take advantage of the benefits of cloud hosting. You can scale your application to handle more traffic, access powerful analytics and monitoring tools, and use add-ons to add functionality to your application.
 Whether you're deploying a small side project or a large-scale application, Bypass makes it easy to deploy your repository on the cloud hosting platform of your choice.
+- If you do not want to edit the Alexa repo and wish to use the original Vars, after deploying, all usernames including support, channel, support group, and start message will remain the same as the original Alexa showing on the start command, except the owner name. Therefore, there will be no need to edit anything. Simply click on the deploy button, login to your Heroku and Railway accounts, fill the Vars, and wait for the complete deployment. Check the logs to make sure to add both assistant and bot as admins in the log channel.
+- If you want to edit the repo, instructions have also been added on how you can edit the Alexa repo after forking it from the original repo.
 > Here is the official Alexa Music repo click on the button given below
 <a href="https://github.com/TheTeamAlexa/AlexaMusic"><img src="https://img.shields.io/badge/Alexa-Music%20Official-blue.svg?style=for-the-badge&logo=GitHub"></a>
 
@@ -29,8 +31,17 @@ Whether you're deploying a small side project or a large-scale application, Bypa
 > sᴇᴄᴏɴᴅ, ғᴏʀᴋ ᴛʜɪs ʀᴇᴘᴏ ᴀɴᴅ ᴏᴘᴇɴ ʀᴀɪʟᴡᴀʏ, ᴄᴏɴɴᴇᴄᴛ ᴛᴏ ɢɪᴛʜᴜʙ, ᴛʜᴇɴ sᴇʟᴇᴄᴛ ʏᴏᴜʀ ꜰᴏʀᴋᴇᴅ ʀᴇᴘᴏ, ᴛʜᴇɴ ᴀᴅᴅ ᴄᴏɴꜰɪɢ ᴠᴀʀs ᴀɴᴅ ᴡᴀɪᴛ ꜰᴏʀ ᴄᴏᴍᴘʟᴇᴛᴇ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ. ᴛʜᴀᴛ's ɪᴛ!
 
 <h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴀʟᴇxᴀ ᴏɴ ʀᴀɪʟᴡᴇʏ</h4>
-
+> It's a original template click on the button given below to directly deploy on railway and fills you vars
 [![ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)]()
+<h4> ᴅᴇᴘʟᴏʏᴇ ᴡɪᴛʜᴏᴜᴛ ᴛᴇᴍᴘʟᴀᴛᴇ </h4>
+- If you don't want to use template then login to [Railway](https://railway.app) and click on new project as shown in picture
+<a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/a23371c74339b222d8e70.png"/></a> |
+- Then click on `Deploye from GitHub repo` and connect you GitHub account now slecet you repo which you want to deply as shown in pic.
+<a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/81609e3e1e91367020db7.png"/></a> |
+- Now, click on the variables and add new variables, filling in the necessary vars which are given below, or you can check them in the app.json file.
+<a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/2f381a99fef97ba6594c5.png"/></a> |
+- Here m is necessary Vars you have to fill in variable section
+> `OWNER_ID`, `MONGO_DB_URI`, `BOT_TOKEN`, `API_HASH`, `API_ID`, `LOG_GROUP_ID`, `STRING_SESSION`.
 <br>
 
 <h1 align="center"><b>❤️ ʜᴇʀᴇ ɪs ᴛʜᴇ ғᴜʟʟ ᴅᴇᴛᴀɪʟ ❤️</b></h1>
