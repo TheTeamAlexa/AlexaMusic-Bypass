@@ -33,7 +33,8 @@ Whether you're deploying a small side project or a large-scale application, Bypa
 <h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴀʟᴇxᴀ ᴏɴ ʀᴀɪʟᴡᴇʏ</h4>
 It's a original template click on the button given below to directly deploy on railway and fills you vars.
 
-[![ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)]()
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/UCs9AL?referralCode=ZrGD06)
+
 
 <h4> ᴅᴇᴘʟᴏʏᴇ ᴡɪᴛʜᴏᴜᴛ ᴛᴇᴍᴘʟᴀᴛᴇ </h4>
 <p>If you prefer not to use the template, you can login to <a href="https://railway.app">Railway</a> and click on 'New Project' to create a new project.</p>
