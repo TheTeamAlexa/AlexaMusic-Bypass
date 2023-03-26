@@ -36,7 +36,7 @@ It's a original template click on the button given below to directly deploy on r
 [![ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)]()
 
 <h4> ᴅᴇᴘʟᴏʏᴇ ᴡɪᴛʜᴏᴜᴛ ᴛᴇᴍᴘʟᴀᴛᴇ </h4>
-If you don't want to use template then login to Railway and click on new project as shown in picture
+<p>If you prefer not to use the template, you can login to <a href="https://railway.app">Railway</a> and click on 'New Project' to create a new project.</p>
 <a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/a23371c74339b222d8e70.png"/></a>
 <p>To deploy, click on 'Deploy from GitHub Repo' and connect your GitHub account. Next, select 'AlexaMusic-Bypass' as shown in the picture below.</p>
 <div>
