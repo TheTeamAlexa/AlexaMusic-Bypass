@@ -35,7 +35,6 @@ It's a original template click on the button given below to directly deploy on r
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/UCs9AL?referralCode=ZrGD06)
 
-
 <h4> ᴅᴇᴘʟᴏʏᴇ ᴡɪᴛʜᴏᴜᴛ ᴛᴇᴍᴘʟᴀᴛᴇ </h4>
 <p>If you prefer not to use the template, you can login to <a href="https://railway.app">Railway</a> and click on 'New Project' to create a new project.</p>
 <a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/a23371c74339b222d8e70.png"/></a>
