@@ -38,9 +38,11 @@ It's a original template click on the button given below to directly deploy on r
 <h4> ᴅᴇᴘʟᴏʏᴇ ᴡɪᴛʜᴏᴜᴛ ᴛᴇᴍᴘʟᴀᴛᴇ </h4>
 If you don't want to use template then login to Railway and click on new project as shown in picture
 <a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/a23371c74339b222d8e70.png"/></a>
-Then click on `Deploye from GitHub repo` and connect you GitHub account now slecet `AlexaMusic-Bypass` as shown in pic.
-NOTE ⚠️: Don't use direct repo otherwise your account will be suspended use this Bypass which is dockerfile based.
-<a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/81609e3e1e91367020db7.png"/></a>
+<p>To deploy, click on 'Deploy from GitHub Repo' and connect your GitHub account. Next, select 'AlexaMusic-Bypass' as shown in the picture below.</p>
+<div>
+    <img src="https://telegra.ph/file/81609e3e1e91367020db7.png" alt="Picture of selecting AlexaMusic-Bypass on Heroku">
+</div>
+<p><strong>NOTE ⚠️: Do not use the direct repo, as doing so may result in account suspension. Instead, use this Bypass, which is Dockerfile based.</strong></p>
 Now, click on the variables and add new variables, filling in the necessary vars which are given below, or you can check them in the app.json file.
 <a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/2f381a99fef97ba6594c5.png"/></a>
 <p>Here are the necessary vars that you need to fill in the variable section for this code to work properly: <code>OWNER_ID</code>, <code>MONGO_DB_URI</code>, <code>BOT_TOKEN</code>, <code>API_HASH</code>, <code>API_ID</code>, <code>LOG_GROUP_ID</code>, and <code>STRING_SESSION</code>. Fill these vars and wait for deployment.</p> 
