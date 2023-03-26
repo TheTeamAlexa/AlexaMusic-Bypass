@@ -36,13 +36,13 @@ It's a original template click on the button given below to directly deploy on r
 [![ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)]()
 
 <h4> ᴅᴇᴘʟᴏʏᴇ ᴡɪᴛʜᴏᴜᴛ ᴛᴇᴍᴘʟᴀᴛᴇ </h4>
-If you don't want to use template then login to [Railway](https://railway.app) and click on new project as shown in picture
+If you don't want to use template then login to Railway and click on new project as shown in picture
 <a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/a23371c74339b222d8e70.png"/></a>
 Then click on `Deploye from GitHub repo` and connect you GitHub account now slecet you repo which you want to deply as shown in pic.
 <a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/81609e3e1e91367020db7.png"/></a>
 Now, click on the variables and add new variables, filling in the necessary vars which are given below, or you can check them in the app.json file.
 <a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/2f381a99fef97ba6594c5.png"/></a>
-Here m is necessary Vars you have to fill in variable section. `OWNER_ID`, `MONGO_DB_URI`, `BOT_TOKEN`, `API_HASH`, `API_ID`, `LOG_GROUP_ID`, `STRING_SESSION`.
+Here m is necessary Vars you have to fill in variable section, `OWNER_ID` `MONGO_DB_URI` `BOT_TOKEN` `API_HASH` `API_ID` `LOG_GROUP_ID` `STRING_SESSION` fill these vars and wait for deployment.
 <br>
 
 <h1 align="center"><b>❤️ ʜᴇʀᴇ ɪs ᴛʜᴇ ғᴜʟʟ ᴅᴇᴛᴀɪʟ ❤️</b></h1>
